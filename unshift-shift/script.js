@@ -8,4 +8,4 @@ console.log(carro); //imprimiendo en consola en total 5 elementos
 
 carro.shift(); // eliminando el primer elemento del array
 
-console.log(carro); // imprimiendo en consola en total 4 elementos del array
+console.log(carro); // imprimiendo en consola en total 4 elementos del array, gracias
